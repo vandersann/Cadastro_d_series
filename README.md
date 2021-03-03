@@ -1,21 +1,18 @@
-# Digital Innovation One - Prática .NET
+# Cadastro de Séries
 
-## Criando uma APP de cadastro em memória
+## APP simples para controle e cadastro de séries com o intuito de praticar conceitos
+de orientação de objetos.
 
-[Slides](dio-dotnet-poo-lab-2.pdf)
+
 
 ## Contato
 
-Eliézer Zarpelão
+Vander Sandino
 
-Linkedin:  [br.linkedin.com/in/eliezerzarpelao](http://br.linkedin.com/in/eliezerzarpelao)
+Linkedin:  [https://www.linkedin.com/in/vandersandinoo/](https://www.linkedin.com/in/vandersandinoo/)
 
-WebSite:  [eliezerzarpelao.eti.br](https://eliezerzarpelao.eti.br)
+Instagram:  [instagram.com/vandersann](https://instagram.com/vandersann
 
-Instagram:  [instagram.com/eliezerzarpelao](https://instagram.com/eliezerzarpelao)
+Twitter:  [@relativando](https://twitter.com/relativando)
 
-YouTube:  [youtube.com/channel/UC47RD-s-U6fpKTY0soIUn6g](https://www.youtube.com/channel/UC47RD-s-U6fpKTY0soIUn6g/featured?view_as=subscriber)
-
-Twitter:  [@eliezerzarpelao](https://twitter.com/eliezerzarpelao)
-
-Github:  [github.com/elizarp](https://github.com/elizarp)
+Github:  [github.com/vandersann](https://github.com/vandersann)
