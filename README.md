@@ -7,7 +7,7 @@
 
 Vander Sandino
 
-Linkedin:  [https://www.linkedin.com/in/vandersandinoo/](https://www.linkedin.com/in/vandersandinoo/)
+Linkedin:  [https://www.linkedin.com/in/vandersandinoo](https://www.linkedin.com/in/vandersandinoo)
 
 Instagram:  [instagram.com/vandersann](https://instagram.com/vandersann
 
