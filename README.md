@@ -7,10 +7,10 @@
 
 Vander Sandino
 
-Linkedin:  [https://www.linkedin.com/in/vandersandinoo](https://www.linkedin.com/in/vandersandinoo)
+Linkedin:  [vandersandinoo](https://www.linkedin.com/in/vandersandinoo)
 
 Instagram:  [@vandersann](https://instagram.com/vandersann)
 
 Twitter:  [@relativando](https://twitter.com/relativando)
 
-Github:  [github.com/vandersann](https://github.com/vandersann)
+Github:  [vandersann](https://github.com/vandersann)
