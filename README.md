@@ -9,7 +9,7 @@ Vander Sandino
 
 Linkedin:  [https://www.linkedin.com/in/vandersandinoo](https://www.linkedin.com/in/vandersandinoo)
 
-Instagram:  [instagram.com/vandersann](https://instagram.com/vandersann
+Instagram:  [@vandersann](https://instagram.com/vandersann)
 
 Twitter:  [@relativando](https://twitter.com/relativando)
 
