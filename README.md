@@ -1,8 +1,6 @@
 # Cadastro de Séries
 
-## APP simples para controle e cadastro de séries com o intuito de praticar conceitos
-de orientação de objetos.
-
+## APP simples para controle e cadastro de séries com o intuito de praticar conceitos de orientação de objetos.
 
 
 ## Contato
